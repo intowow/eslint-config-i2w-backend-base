@@ -11,7 +11,9 @@ Work with intowow/ce-backend-js-linter git repository, add this repo to dependen
 This repo has peer dependencies 
     
    "eslint": "^4.19.1 || ^5.3.0",
+   
    "eslint-plugin-import": "^2.14.0"
+   
 
 But we make these under dependencies section for convenient usage.
 
@@ -20,6 +22,10 @@ But we make these under dependencies section for convenient usage.
 To update the version of this config
   
   1.Clone the latest version of https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base
+  
   2.Move peer dependencies to under dependencies section
+  
   3.Keep this Readme from overwritten
+  
+  
   
