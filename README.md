@@ -8,6 +8,8 @@ Work with intowow/ce-backend-js-linter git repository, add this repo to dependen
 
 ### Note
 
+Current version of Airbnb's base is 13.1.0
+
 This repo has peer dependencies 
     
    "eslint": "^4.19.1 || ^5.3.0",
@@ -26,6 +28,4 @@ To update the version of this config
   2.Move peer dependencies to under dependencies section
   
   3.Keep this Readme from overwritten
-  
-  
   
